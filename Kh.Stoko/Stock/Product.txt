@@ -1,0 +1,20 @@
+productName,quantity,price,stockInDate
+Lunchbox,3,4000,2025-04-15
+Cupbap,4,3500,2025-04-13
+Oreo Ice Cream,5,2300,2025-04-05
+Gimbap,5,3000,2025-04-12
+Coffee,3,2000,2025-04-18
+Green Tea Ice Cream,6,2500,2025-04-04
+Kancho,7,1500,2025-04-10
+Water,7,500,2025-04-20
+Vanilla Ice Cream,8,1800,2025-04-02
+Jjanggu Snack,8,1200,2025-04-08
+Juice,9,1500,2025-04-19
+Strawberry Ice Cream,10,2200,2025-04-03
+Poca Chips,10,1700,2025-04-07
+Chicken Nuggets,10,2200,2025-04-14
+Choco Songi,12,1800,2025-04-09
+Sprite,12,1200,2025-04-17
+Shrimp Chips,15,1500,2025-04-06
+Coke,15,1300,2025-04-16
+Ramen,20,900,2025-04-11

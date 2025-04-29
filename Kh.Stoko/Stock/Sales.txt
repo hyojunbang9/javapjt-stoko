@@ -1,0 +1,2 @@
+receiptNo,_productName,_quantity,_totalPrice,_stockInDate
+1,Water,7,200,10000
